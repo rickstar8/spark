@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>54932714744-55f2q5jold7k6uhoj8866fnibs5u6odk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.54932714744-55f2q5jold7k6uhoj8866fnibs5u6odk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZZPlXMMFeHLKf_2L3CexX4sDq_oSbWmc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>54932714744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.xyra.spark</string>
+	<key>PROJECT_ID</key>
+	<string>spark-2c9c2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spark-2c9c2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:54932714744:ios:73f700d92049892e</string>
+	<key>DATABASE_URL</key>
+	<string>https://spark-2c9c2.firebaseio.com</string>
+</dict>
+</plist>
