@@ -19,6 +19,7 @@
 		9C8A04B21DEF00680030FAE7 /* RoundBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8A04B11DEF00680030FAE7 /* RoundBtn.swift */; };
 		9C8A04B41DEF02F40030FAE7 /* FancyField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8A04B31DEF02F40030FAE7 /* FancyField.swift */; };
 		9C8A04B61DEF05290030FAE7 /* FancyBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8A04B51DEF05290030FAE7 /* FancyBtn.swift */; };
+		9C8A04B91DF0F3020030FAE7 /* FeedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8A04B81DF0F3020030FAE7 /* FeedVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		9C8A04B31DEF02F40030FAE7 /* FancyField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FancyField.swift; sourceTree = "<group>"; };
 		9C8A04B51DEF05290030FAE7 /* FancyBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FancyBtn.swift; sourceTree = "<group>"; };
 		9C8A04B71DEFBAED0030FAE7 /* spark.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = spark.entitlements; sourceTree = "<group>"; };
+		9C8A04B81DF0F3020030FAE7 /* FeedVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedVC.swift; sourceTree = "<group>"; };
 		ABC02691363E6E5D12FC8BF4 /* Pods-spark.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-spark.release.xcconfig"; path = "Pods/Target Support Files/Pods-spark/Pods-spark.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				9C8A04971DEE38650030FAE7 /* SignInVC.swift */,
+				9C8A04B81DF0F3020030FAE7 /* FeedVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 					9C8A04911DEE38650030FAE7 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = W2FM5PYV6D;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Keychain = {
@@ -274,6 +278,7 @@
 				9C8A04981DEE38650030FAE7 /* SignInVC.swift in Sources */,
 				9C8A04B21DEF00680030FAE7 /* RoundBtn.swift in Sources */,
 				9C8A04961DEE38650030FAE7 /* AppDelegate.swift in Sources */,
+				9C8A04B91DF0F3020030FAE7 /* FeedVC.swift in Sources */,
 				9C8A04AD1DEEE50F0030FAE7 /* FancyView.swift in Sources */,
 				9C8A04B01DEEE5840030FAE7 /* Constants.swift in Sources */,
 				9C8A04B61DEF05290030FAE7 /* FancyBtn.swift in Sources */,
